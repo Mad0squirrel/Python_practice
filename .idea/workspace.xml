@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50bc6d03-eadc-4e16-ae36-e3334b4bec57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/variant_37/task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variant_37/task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variant_37/task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variant_37/task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variant_37/task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variant_37/task6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variant_37/task7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variant_37/task8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variant_37/task9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_38/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_38/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_38/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_38/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_38/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_38/task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_38/task8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variant_38/task9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task8/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/task8/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FVMQTDllCaChN1o1PslXAESutx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,8 +44,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.task8">
-    <configuration name="task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.task8 (1)">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kispython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variant_37" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variant_37/task2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task8/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task6 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kispython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variant_37" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variant_38" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variant_37/task3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variant_38/task6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task7 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kispython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variant_37" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variant_38" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variant_37/task6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variant_38/task7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task8 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kispython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variant_37" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variant_38" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variant_37/task7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variant_38/task8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kispython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variant_37" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variant_38" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variant_37/task8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variant_38/task9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task8" />
-        <item itemvalue="Python.task7" />
-        <item itemvalue="Python.task6" />
-        <item itemvalue="Python.task3" />
-        <item itemvalue="Python.task2" />
+        <item itemvalue="Python.task8 (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.task9" />
+        <item itemvalue="Python.task7 (1)" />
+        <item itemvalue="Python.task6 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +176,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
