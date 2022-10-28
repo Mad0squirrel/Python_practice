@@ -2,7 +2,7 @@ import re
 
 
 def main(source):
-    pattern = r'glob(["a-z_0-9]*)<==\{([0-9-;]*)\}'
+    pattern = r'glob([a-z_0-9]*)<==\{([0-9-;]*)\}'
     i = {}
     spaceremove = source.replace(" ", "").replace("\n", "")
     new = re.findall(pattern, spaceremove)
